@@ -1,51 +1,47 @@
 # Código de Conducta
 
-Our [company values](https://auth0.com/careers/culture) guide us in our day-to-day interactions and decision-making. Our open source projects are no exception. Trust, respect, collaboration and transparency are core values we believe should live and breathe within our projects. Our community welcomes participants from around the world with different experiences, unique perspectives, and great ideas to share.
+Nuestros [valores](link a los valores) nos guían en nuestras interacciones cotidianas y la toma de decisiones. Nuestros proyectos de código abierto no son la excepción. La confianza, el respeto, la colaboración y la transparencia son valores fundamentales que creemos que deberían vivir y respirar dentro de nuestros proyectos. Nuestra comunidad le da la bienvenida a participantes de todo el mundo con diferentes experiencias, perspectivas únicas y excelentes ideas para compartir.
 
-## Our Pledge
+## Nuestro compromiso
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+En aras de fomentar un ambiente abierto y acogedor, nosotros, como colaboradores y mantenedores, nos comprometemos a hacer que la participación en nuestro proyecto y nuestra comunidad sea una experiencia libre de acoso para todos, independientemente de su edad, tamaño corporal, discapacidad, origen étnico, características sexuales, identidad de género y expresión, nivel de experiencia, educación, estatus socioeconómico, nacionalidad, apariencia personal, raza, religión o identidad y orientación sexual.
 
-## Our Standards
+## Nuestro estándares
 
-Examples of behavior that contributes to creating a positive environment include:
+Los ejemplos de comportamiento que contribuyen a crear un ambiente positivo incluyen:
 
--   Using welcoming and inclusive language
--   Being respectful of differing viewpoints and experiences
--   Gracefully accepting constructive criticism
--   Attempting collaboration before conflict
--   Focusing on what is best for the community
--   Showing empathy towards other community members
+-   Uso de lenguaje acogedor e inclusivo
+-   Ser respetuoso de los diferentes puntos de vista y experiencias.
+-   Aceptar con gracia la crítica constructiva
+-   Intentar la colaboración y no el conflicto.
+-   Centrarse en lo que es mejor para la comunidad
+-   Mostrar empatía hacia otros miembros de la comunidad.
 
-Examples of unacceptable behavior by participants include:
+Los ejemplos de comportamiento inaceptable de los participantes incluyen:
 
--   Violence, threats of violence, or inciting others to commit self-harm
--   The use of sexualized language or imagery and unwelcome sexual attention or advances
--   Trolling, intentionally spreading misinformation, insulting/derogatory comments, and personal or political attacks
--   Public or private harassment
--   Publishing others' private information, such as a physical or electronic address, without explicit permission
--   Abuse of the reporting process to intentionally harass or exclude others
--   Advocating for, or encouraging, any of the above behavior
--   Other conduct which could reasonably be considered inappropriate in a professional setting
+-   Violencia, amenazas de violencia o incitación a otros a cometer autolesiones.
+-   El uso de lenguaje o imágenes sexualizadas y atención o mensajes sexuales no deseados
+-   Difusión intencional de información errónea, comentarios insultantes / despectivos y ataques personales o políticos.
+-   Acoso público o privado.
+-   Publicar información privada de otros, como una dirección física o electrónica, sin permiso explícito
+-   Abusar del proceso de denuncia para hostigar o excluir intencionalmente a otros.
+-   Apoyar o alentar cualquiera de los comportamientos anteriores
+-   Cualquier conducta que razonablemente podría considerarse inapropiada en un entorno profesional
 
-## Our Responsibilities
+## Nuestras responsabilidades
 
-Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+Los encargados del mantenimiento del proyecto son responsables de aclarar los estándares de comportamiento aceptable y se espera que tomen medidas correctivas apropiadas y justas en respuesta a cualquier caso de comportamiento inaceptable.
 
-Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+Los encargados del mantenimiento del proyecto tienen el derecho y la responsabilidad de eliminar, editar o rechazar comentarios, confirmaciones, códigos, problemas y otras contribuciones que no estén alineadas con este Código de conducta, o de prohibir temporal o permanentemente a cualquier contribuyente por otros comportamientos que consideran inapropiados, amenazantes, ofensivos o dañinos.
 
-## Scope
+## Alcance
 
-This Code of Conduct applies both within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+Este Código de Conducta se aplica tanto dentro de los espacios del proyecto como en los espacios públicos cuando un individuo representa el proyecto o su comunidad. Los ejemplos de representación de un proyecto o comunidad incluyen el uso de una dirección de correo electrónico oficial del proyecto, la publicación a través de una cuenta oficial de redes sociales, o actuar como un representante designado en un evento en línea o fuera de línea. La representación de un proyecto puede ser definida y aclarada por los encargados del mantenimiento del proyecto.
 
-## Enforcement
+## Aplicación
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting us anonymously through [this form](https://goo.gl/forms/chVYUnA4bP70WGsL2). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident.
+Los casos de comportamiento abusivo, hostigador o inaceptable pueden comunicarse comunicándose con nosotros de forma anónima a través de [correo electrónico]. Todas las quejas serán revisadas e investigadas y darán como resultado una respuesta que se considere necesaria y apropiada a las circunstancias. El equipo del proyecto está obligado a mantener la confidencialidad con respecto a quien reporte un incidente.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+Los encargados del mantenimiento del proyecto que no cumplan o hagan cumplir el Código de Conducta de buena fe pueden enfrentar repercusiones temporales o permanentes según lo determinen otros miembros del liderazgo del proyecto.
 
-If you are unsure whether an incident is a violation, or whether the space where the incident took place is covered by our Code of Conduct, **we encourage you to still report it**. We would prefer to have a few extra reports where we decide to take no action, than to leave an incident go unnoticed and unresolved that may result in an individual or group to feel like they can no longer participate in the community. Reports deemed as not a violation will also allow us to improve our Code of Conduct and processes surrounding it. If you witness a dangerous situation or someone in distress, we encourage you to report even if you are only an observer.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4, available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+Si no está seguro de si un incidente es una violación, o si el espacio donde ocurrió el incidente está cubierto por nuestro Código de Conducta, **lo alentamos a que aún lo informe**. Preferiríamos tener algunos informes adicionales en los que decidimos no tomar medidas, que dejar que un incidente pase desapercibido y no se resuelva, lo que puede provocar que un individuo o grupo sienta que ya no puede participar en la comunidad. Los informes no considerados como una violación también nos permitirán mejorar nuestro Código de Conducta y los procesos que lo rodean. Si es testigo de una situación peligrosa o de alguien en apuros, lo alentamos a que informe incluso si solo es un observador.
