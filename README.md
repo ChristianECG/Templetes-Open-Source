@@ -1,3 +1,5 @@
+# EN PROCESO DE TRADUCCIÓN
+
 # Auth0 Open Source Template
 
 This repo contains sample files to be used in Auth0 open source software repositories. These files are guidelines that can be used in an Auth0 or any open source project to ensure that the project is described properly, the contribution process is clear, and additional tools like CI, coverage monitors, and quality checkers are configured properly.
