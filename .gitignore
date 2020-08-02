@@ -1,9 +1,9 @@
-# .gitignore docs - https://git-scm.com/docs/gitignore
-# Useful .gitignore templates - https://github.com/github/gitignore
-# Other common .gitignore directives - https://gist.github.com/octocat/9257657
-# Consider adding software-specific ignores to ~/.gitignore_global
+# Documentación del .gitignore - https://git-scm.com/docs/gitignore
+# Plantillas para el .gitignore - https://github.com/github/gitignore
+# Directivas comunes para el .gitignore - https://gist.github.com/octocat/9257657
+# Considera añadir software específico para ignorar en ~/.gitignore_global
 #
-# Commonly-used directives:
+# Directivas comúnmente usadas:
 #
 # .DS_Store
 # .DS_Store?

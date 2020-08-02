@@ -1,9 +1,9 @@
 # Change Log
 
-Resources for generating a changelog:
+Recursos para generar el registro de cambios:
 
-[skywinder/Github-Changelog-Generator](https://github.com/skywinder/Github-Changelog-Generator) - generates a full changelog that overwrites the existing CHANGELOG.md. 
+[skywinder/Github-Changelog-Generator](https://github.com/skywinder/Github-Changelog-Generator) - Genera un registro de cambios completo que sobre escribe el CHANGELOG.md.
 
-[hzalaz/wt-oss-milestone-changelog](https://github.com/hzalaz/wt-oss-milestone-changelog) - generates a snippet of Markdown that can be added to a CHANGELOG.md.
+[hzalaz/wt-oss-milestone-changelog](https://github.com/hzalaz/wt-oss-milestone-changelog) - Genera una instantanea del Markdown que puedes añadir al CHANGELOG.md.
 
-[conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-cli) - generates a full changelog based on commit history with the option to append to an existing changelog.
+[conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog/tree/master/packages/conventional-changelog-cli) - Genera un registro de cambios completo basado en el histórico de commits con la opción de añadirlo a un registro existente.
