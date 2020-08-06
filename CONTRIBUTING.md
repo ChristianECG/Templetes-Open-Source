@@ -1,48 +1,45 @@
-# Contribution
+# Contribución
 
-Please read [Auth0's contribution guidelines](https://github.com/auth0/open-source-template/blob/master/GENERAL-CONTRIBUTING.md).
+Por favor, lee los [lineamientos generales de contribución](GENERAL-CONTRIBUTING.md).
 
-## Documentation
+## Documentación
 
-- PR for docs site update, if needed
-- Code-level documentation expectations
-	- 100% documentation coverage for PRs
-	- Include links to relevant Auth0 doc pages
+-   PR para actualizar la documentación, si se necesita.
+-   Expectativas de documentación a nivel de código - Cobertura de documentación del 100% para los PR - Incluya enlaces a páginas de documentos relevantes
 
-## Assets compilation
+## Compilación de Assets
 
-Information about compiling CSS, JS, SVG, etc.
+Información acerca de la compilación de CSS, JS, SVG, etc.
 
-## Environment setup
+## Instalación del ambiente
 
-Link to [README installation](README.md#installation) steps and include anything additional needed to contribute to the project.
+Vículo al [README de instalación](README.md#installation), incluye todo lo necesario para poder contribuir al proyecto
 
 ## Testing
 
+### Agregar tests
 
-### Adding tests
+Información general acerca de la serie de test y el formato y estructura de los test
 
-General information about the test suite and how to format and structure tests.
+### Ejecutando tests
 
-### Running tests
-
-Any additional information needed to run the test suite. Include `bash`-formatted commands like:
+Cualquier información adicional necesaria para ejecutar la suite de test. Incluye los comandos formateado para `bash` como:
 
 ```bash
 composer test
 bundle exec rake test
 ```
 
-Also include any information about essential manual tests.
+También incluye cualquier información acerca de test manuales que sean esenciales.
 
-## Code quality tools
+## Herramientas de calidad del código
 
-Information about scripts to run before committing.
+Información acerca de los script que se deben ejecutar antes de hacer un commit.
 
-## CI Information
+## Información de CI
 
-What CI checks for and how to pass.
+Lo que CI comprueba y cómo aprobar.
 
-## Repo-specific PR guidelines
+## Lineamientos para hacer PR a este repositorio
 
-Anything not covered in the general guidelines linked above.
+Todo lo que no esté cubierto en las pautas generales vinculadas anteriormente.
